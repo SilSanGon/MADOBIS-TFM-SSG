@@ -8,3 +8,5 @@ The source codes of workflow are ordered with the titles:
 4. Taxo_fun.R: Script in R to do taxonomic and functional rarefaction curves and functional redundancy curves.
 5. Fun_rich.R: Script in R to do functional richness analysis with class of KEGG database.
 6. Stadistics.R: Script in R to do statistical analysis as covarianca, Pearson's correlation, PCA and PERMANOVA.
+
+Private deposit, for more information please contact me. 
